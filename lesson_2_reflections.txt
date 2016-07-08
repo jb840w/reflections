@@ -19,3 +19,9 @@ A: Specifically for me when I go to add new features or functionality to my app.
 
 Q: How do the diagrams help you visualize the branch structure?
 A: Diagrams are always useful for helping you to see a logical flow to decisions that are made.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the
+   way we do?
+A: The result of merging two branches is to combine the work done in both branches so that your
+   product may share all features.  It is shown in the diagram so that you might see how some
+   branches can be excluded from the final commit.
