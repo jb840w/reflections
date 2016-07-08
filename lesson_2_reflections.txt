@@ -10,3 +10,9 @@ A: The staging area simply logs what changes you wish to make when you decide to
 Q: How can you use the staging area to make sure you have one commit per logical change?
 A: specifically using the diff command in conjunction with the active staging area will allow
    you to see the changes that have been made.
+
+Q: What are some situations when branches would be helpful in keeping your history organized?
+   How would branches help?
+A: Specifically for me when I go to add new features or functionality to my app.  Branches will
+   allow me to test out these new features without actually impacting the main funtional code
+   base.
