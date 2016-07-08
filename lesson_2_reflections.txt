@@ -6,3 +6,7 @@ Q: How is the staging area different from teh working directory and the reposito
    you think it offers?
 A: The staging area simply logs what changes you wish to make when you decide to commit, it does no
    action by itself.  The value is in it's ability to help you think through your logical grouping.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: specifically using the diff command in conjunction with the active staging area will allow
+   you to see the changes that have been made.
