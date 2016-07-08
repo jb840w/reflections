@@ -1,0 +1,40 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: The diff program was able to show via "+" and "-" how different lines in my code had changed
+   from one version to the next.
+
+Q: How could having easy access to the entire history of a file make you a more efficient
+   programmer in the long term?
+A: It would seem as though having instant access to all of your revisions might help you remember
+   a certain state of mind that you were in when programming something.  In addition, being
+   able to learn from your mistakes and will help inoform the choices you make when programming
+   in the future.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like
+   you do in Git, vs having versions automatically saved, like Google Docs does?
+A: Pro:: Manually choosing to commit allows you to make more logical break points that will be
+   easier to read through at a later time.
+   Con:: Manually committing means you open the door to user error.  It's possible to forget or
+   even commit too often to be useful.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one
+   commit, while others, like Google Docs, treat each file seperately?
+A: I suppose becuase programs like Google Docs have you working on one file at a time and it 
+   doesn't see the files as "connected".  Within the context of programming you are likely to
+   have multiple files that are interconnected, as a result one change can affect multiple files
+   and multiple files can all be dependent on each other.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+A: git log will show me a complete list of all commits including their individual id's, message &
+   dates.  git diff will allow me to compare two files to find specific changes made between the 
+   versions.  Bonus, git  log --stats is a very quick way to see additional information to the log
+   regarding the number of additions and deletions in each commit.  This was useful in answering the
+   quiz.
+
+Q: How might using version control make you more confident to make changes that could break 
+   something?
+A: I suppose the knowledge that can go "back" one step at a time to find your code that worked, 
+   within seconds you can be back up and running.  Nothing is ever lost.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A: Now that I have learned more about git, I would love to implement it on my next project for
+   Udacity as well as my personal project for my wife.
