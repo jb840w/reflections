@@ -23,3 +23,9 @@ Q: How would you collaborate without using Git or GitHub? what would be easier, 
 A: Probably a mixture of email/dropbox/icloud.  It might be "easeir" if the person I am collaborating 
    with doesn't know how to use git or github.  It would absolutely be harder because we may have 
    multiple un-synced version control systems in play.
+
+Q: When would you want to make changes in a separate branch rather than directly in the master?
+   What benefits does each approach have?
+A: I suppose if it is mission critical that the master remain production ready (not currently in
+   development).  You might need to, for the sake of the customers, work in a fork and only merge as
+   necessary.
