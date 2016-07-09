@@ -17,3 +17,9 @@ A: forks are specific to GitHub in that it creates a new copy of the project in 
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: I suppose it can tell you who the most recent collaborator was.
+
+
+Q: How would you collaborate without using Git or GitHub? what would be easier, what would be harder?
+A: Probably a mixture of email/dropbox/icloud.  It might be "easeir" if the person I am collaborating 
+   with doesn't know how to use git or github.  It would absolutely be harder because we may have 
+   multiple un-synced version control systems in play.
