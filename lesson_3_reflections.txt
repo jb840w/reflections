@@ -14,3 +14,6 @@ A: forks are specific to GitHub in that it creates a new copy of the project in 
    be either local or on github: Cloning specifically works when you are the project owner.  Branches
    can also exist in either local or remote versions: Branching is most useful when you have a functional
    line of code but would like to either add to it or change it in a way that may be initally unstable.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: I suppose it can tell you who the most recent collaborator was.
