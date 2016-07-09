@@ -5,3 +5,9 @@ Q: Why might you want to always pull changes manually rather than having Git aut
    up-to-date with your remote repository?
 A: Similar to earlier answers, the later provides for more personal control over the logical flow
    of push and commit.
+
+Q: Describe the differences between forks, clones, and branches.  When would you use one instead
+   of another?
+A: forks are specific to GitHub in that it creates a new copy of the project in your user account.
+   clones create a new copy of the project but can be either local or on github.  branches can 
+   also exist in either local or remote.
